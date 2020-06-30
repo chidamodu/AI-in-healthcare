@@ -1,0 +1,11 @@
+This repo aims to shed light on multiple use cases spanning to the most important applications of AI to medicine. 
+
+For example, given an image of a chest X-ray, an unstructured image data, can you train a neural network to diagnose whether or not a patient has pneumonia? 
+
+Or given structure data such as the patient's lab results, can you train a decision tree to estimate the risk of heart attack? 
+
+By working on these concrete problems, I aim to gain knowledge on the practical aspects of machine learning from how to deal with imbalanced data sets, to how to 
+work with missing data, to picking the right evaluation metric. 
+
+Evaluation metric too? In machine learning, we often default to classification accuracy as the metric. But for many applications, that's not the right metric. So 
+how do you choose a more appropriate one?

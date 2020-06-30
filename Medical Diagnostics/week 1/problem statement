@@ -1,0 +1,9 @@
+Week 1 of the course aims to shed light on the following key concepts:
+
+Data pre-processing: checking for data leakage
+
+Preprocess images properly for the train, validation and test sets
+
+Implement a weighted loss function to address class imbalance.
+
+Set up a pre-trained neural network to make disease predictions on chest x-rays.
